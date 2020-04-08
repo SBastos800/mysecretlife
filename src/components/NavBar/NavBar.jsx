@@ -16,6 +16,6 @@ export default class NavBar extends Component {
                     </Nav.Item>
                 </Nav>
             </section>
-        )
+        );
     }
 } 

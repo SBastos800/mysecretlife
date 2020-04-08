@@ -7,6 +7,6 @@ export default class Profile extends Component {
                 <p>Profile</p>
                 <button>SIGN OUT!!!</button>
             </section>
-        )
+        );
     }
 }

@@ -47,6 +47,6 @@ export default class Routes extends Component {
                     <Private path="myprofile" user={this.state.user} signOut={this.signOut}/>
                 </PrivateRoutes>
             </Router>
-        )
+        );
     }
 }
