@@ -1,3 +1,12 @@
+# MySecretLife
+
+This is a react app that was built to test knowledge in firebase authentication. When you access the link provided you'll be asked to login and then if you click 'private' it will render your basic information such as name and email address from Google. You can then click 'sign out' that will take you to the public page.
+
+This app was build in React using firebase authentication. If you clone this repo down you will need to do a 'yarn install' in the terminal in order to install all of the related packages. Then, you can do a 'yarn start' to view a demo version of the app.
+
+This app is available at https://mysecretlife-ac5bf.firebaseapp.com 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
